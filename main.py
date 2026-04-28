@@ -252,7 +252,7 @@ def main():
     
     while True:
         print_ui("\n=========================================")
-        print_ui("  SISTEMA DE CONVIVENCIA ESCOLAR (V3)")
+        print_ui("  SISTEMA DE CONVIVENCIA ESCOLAR  ")
         print_ui("=========================================")
         print_ui("Seleccione con quién desea iniciar sesión:")
         
